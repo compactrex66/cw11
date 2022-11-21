@@ -1,0 +1,15 @@
+div{
+    margin-bottom: 20px;
+}
+div:nth-child(2){
+    background-color: aqua;
+}
+div:nth-child(5){
+    font-style: italic;
+}
+div:nth-child(even){
+    border: 2px solid;
+}
+div:first-letter{
+    font-size: 2rem;
+}
